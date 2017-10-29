@@ -2,13 +2,12 @@
 两种弹窗的集合项目
    项目演示
    ![image](http://ocpo7eh90.bkt.clouddn.com/GIF.gif)
-      
-使用 方式
-   
-使用 方式
 
+
+       
+   <br/>
+    使用 方式
           
-
  -    case R.id.button0:
              Toast.makeText(this, "普通的弹窗", Toast.LENGTH_LONG).show();
                 break;
